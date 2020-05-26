@@ -7,6 +7,7 @@ Please do support him as he is doing a great job to teach with his precious time
 
 
 ## 1. Clone the project XAMPP/WAMP directory
+composer install
 ## 2. Create a database in you phpMyAdmin 
 Import the example.sql file from public/example.sql
 You can modify the table as per your need as this is only a starting point
