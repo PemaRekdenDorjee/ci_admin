@@ -13,11 +13,17 @@ You can modify the table as per your need as this is only a starting point
 ## 3. Setup your .env file
 
 ## 4. login 
-Email:test@gmail.com
+Email: test@gmail.com
+
 Password:1234qwer
 
 
-# Note
+## Contributing
+Thank you for considering contributing to CodeIgniter Admin. 
+
+## Feed back
+Please sent feedback @ pemarekdendoree@gmail.com
+
 
 
 
