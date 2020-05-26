@@ -58,7 +58,7 @@ CREATE TABLE `sys_users` (
 
 /*Data for the table `sys_users` */
 
-insert  into `sys_users`(`id`,`username`,`email`,`phone`,`status`,`profile_picture`,`password`,`last_login`,`last_logout`,`last_accessed_ip`,`logins`,`created_by`,`created_at`,`updated_by`,`updated_at`) values (1,'Pema Dorji Sherpass','pemarekdendorjee@gmail.com','17340267',1,'/uploads/images/2020/May/25/1590386939_445bd9ebc0cb0667c0c7.png','$2y$10$2inKeiNsdwXXX98BU59x2uYZdsvxFnKOB9cpamc5p7gW0PBIkJOdG','2020-05-26 10:41:11','2020-05-25 18:13:04','::1',21,1,'2020-05-24 11:26:10',0,'2020-05-26 10:41:12'),(13,'test','test@gmail.com','12345678',1,'/uploads/images/2020/May/24/1590353371_43e4efcdd22419ec37b0.png','$2y$10$RvJBwo4uuGEss223NIKOjuf7jHJD61S/MxFkVtLZdUz6vg41TjRyW','2020-05-25 01:46:59','2020-05-25 01:47:06','::1',4,1,'2020-05-24 15:49:31',NULL,'2020-05-25 01:47:06');
+insert  into `sys_users`(`id`,`username`,`email`,`phone`,`status`,`profile_picture`,`password`,`last_login`,`last_logout`,`last_accessed_ip`,`logins`,`created_by`,`created_at`,`updated_by`,`updated_at`) values (1,'Pema Dorji Sherpass','pemarekdendorjee@gmail.com','98745612',1,'/uploads/images/2020/May/25/1590386939_445bd9ebc0cb0667c0c7.png','$2y$10$2inKeiNsdwXXX98BU59x2uYZdsvxFnKOB9cpamc5p7gW0PBIkJOdG','2020-05-26 10:41:11','2020-05-25 18:13:04','::1',21,1,'2020-05-24 11:26:10',0,'2020-05-26 10:41:12'),(13,'test','test@gmail.com','12345678',1,'/uploads/images/2020/May/24/1590353371_43e4efcdd22419ec37b0.png','$2y$10$RvJBwo4uuGEss223NIKOjuf7jHJD61S/MxFkVtLZdUz6vg41TjRyW','2020-05-25 01:46:59','2020-05-25 01:47:06','::1',4,1,'2020-05-24 15:49:31',NULL,'2020-05-25 01:47:06');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
