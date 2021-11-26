@@ -1,11 +1,6 @@
 # # CodeIgniter 4 Admin 
 ## What is CodeIgniter Admin?
 Codegniter admin is simple admin panel power by AdminLTE3 
-This project was created base on tutorials by Alex Lancer.
-> https://www.youtube.com/channel/UCIbtEs1nrFY14bgD_ake7HA
-Please do support him as he is doing a great job to teach with his precious time.
-
-
 ## 1. Clone the project XAMPP/WAMP directory
 composer install
 ## 2. Create a database in you phpMyAdmin 
